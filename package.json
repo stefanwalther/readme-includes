@@ -1,5 +1,5 @@
 {
-  "name": "verb-readme-includes",
+  "name": "readme-includes",
   "description": "Template partials for Verb, the markdown documentation generator with zero-configuration required.",
   "version": "0.3.0",
   "homepage": "https://github.com/assemble/verb-readme-includes",
